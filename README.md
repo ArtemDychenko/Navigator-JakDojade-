@@ -19,39 +19,4 @@ If the query has a type of one, all intermediate cities (excluding the starting 
 separated by spaces.
 
 # Example:
-
-![image](https://github.com/ArtemDychenko/Navigator/assets/134294885/)
-
-
-Input:<br />
-20 20 <br />
-.........NEWYORK....<br />
-........*...........<br />
-........#...........<br />
-........#...........<br />
-*##################.<br />
-#LONDON...........#.<br />
-#.................#.<br />
-##................#.<br />
-.############*#####.<br />
-.#..STOCKHOLM.......<br />
-.#..................<br />
-.#############......<br />
-.#...........#......<br />
-.#..KYIV....##......<br />
-.#..*.......*.......<br />
-.####.......#WARSAW.<br />
-......*##.#########.<br />
-..ROME..#.*.......#.<br />
-........#.PARIS...#.<br />
-........###########.<br />
-0<br />
-3<br />
-WARSAW PARIS 0<br />
-PARIS NEWYORK 0<br />
-PARIS NEWYORK 1<br />
-
-Output:<br />
-5<br />
-40<br />
-40 WARSAW LONDON<br />
+![Example of input and output](https://github.com/ArtemDychenko/Navigator/assets/134294885/d8b206a1-9696-435a-afa3-9bd7b79b57b7)
